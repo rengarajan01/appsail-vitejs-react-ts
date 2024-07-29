@@ -1,4 +1,4 @@
-# Hosting Vite.JS application using Catalyst AppSail
+# Hosting Vite.JS application using Catalyst AppSail 
 
 To host your Vite.js application in Catalyst we would suggest you check our Catalyst AppSail feature. Catalyst AppSail is a **Platform-as-a-Service(PaaS)** feature of Catalyst that helps you host your Standalone applications in Catalyst.
 
